@@ -1,0 +1,23 @@
+{
+  "name": "@synces/frontend",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite dev"
+  },
+  "devDependencies": {
+    "@types/react": "^19.1.8",
+    "@types/react-dom": "^19.1.6",
+    "@vitejs/plugin-react-swc": "^3.10.2",
+    "typescript": "^5.8.3",
+    "vite": "^7.0.2"
+  },
+  "dependencies": {
+    "idb": "^8.0.3",
+    "mobx": "^6.13.7",
+    "mobx-react-lite": "^4.1.0",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "uuid": "^11.1.0"
+  }
+}
